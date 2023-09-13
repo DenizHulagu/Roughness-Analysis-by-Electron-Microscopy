@@ -13,7 +13,7 @@ If you use the code in your own work, please cite the above article.
 
 • Download the python script from the GitHub repository.
 
-• Copy the EM images that you want to evaluate into the folder where you downloaded the python script as “xxxx.tif”
+• Copy the EM images that you want to evaluate into the folder where you downloaded the python script as “xxxx.tif”.
 
 • In the python script, enter the name of the EM image file. The script detects itself whether it is an SEM, TEM, or TSEM image.
 
@@ -33,6 +33,6 @@ If you use the code in your own work, please cite the above article.
     
     - Distribution of distances as a function of angles in a csv file: “xxxx_angles_and_distance.csv”
     
-•	The final outcome of the python script is provide in the Terminal section of the PyCharm software 
+•	The final outcome of the python script is provide in the Terminal section of the PyCharm software.
 
-•	Roughness value of the single particle is provided as “Roughness is XX.XX” in nm
+•	Roughness value of the single particle is provided as “Roughness is XX.XX” in nm.
