@@ -10,8 +10,11 @@ If you use the code in your own work, please cite the above article.
 
 # How to use the code:
 •	Download PyCharm (PyCharm Community Edition 2020.2 x64) software on your computer.
+
 •	Download the python script from the GitHub repository.
+
 •	Copy the EM images that you want to evaluate into the folder where you downloaded the python script as “xxxx.tif”
+
 •	In the python script, enter the name of the EM image file. The script detects itself whether it is an SEM, TEM, or TSEM image.
 •	In the python script, enter the resolution of the EM image. 
 •	Press the run button. 
