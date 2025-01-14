@@ -4,7 +4,7 @@ Roughness analysis approach by electron microscopy for spherical microparticles
 The python script in this repository accompanies the following publication:
 
 Hülagü, D., Tobias, C., Climent, E., Gojani, A., Rurack, K., Hodoroaba, V.-D., Generalized analysis approach of the profile roughness by electron microscopy with the example of hierarchically grown polystyrene-iron oxide silica core-shell-shell particles. Advanced Engineering Materials, 2022.
-DOI: 10.1002/adem.202101344
+DOI: https://doi.org/10.1002/adem.202101344
 
 If you use the code in your own work, please cite the above article.
 
